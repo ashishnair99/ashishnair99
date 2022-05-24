@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashishnair99
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning Front End Development.
-- 💞️ I’m looking to collaborate on HTML, CSS, JavaScript.
+- 💞️ I’m looking to collaborate on HTML, CSS, JavaScript, ReactJs.
 - 📫 How to reach me Google.
 
 <!---
